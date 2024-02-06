@@ -5,6 +5,9 @@ import Providers from "./Provider";
 export const metadata: Metadata = {
   title: "smartly",
   description: "...",
+ 
+
+
 };
 
 export default function RootLayout({
